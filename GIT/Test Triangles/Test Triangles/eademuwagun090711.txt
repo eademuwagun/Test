@@ -1,0 +1,68 @@
+Emmanuel Ademuwagun: HW No. 1 Due: 9/7/2011
+
+
+Input 4., 4., 4.	This case is: Equilateral Triangle
+
+Input 3., 5., 4.	This case is: Scalene Triangle
+
+Input 3., 4., 5.	This case is: Scalene Triangle
+
+Input 4., 3., 5.	This case is: Scalene Triangle
+
+Input 4., 5., 3.	This case is: Scalene Triangle
+
+Input 5., 3., 4.	This case is: Scalene Triangle
+
+Input 5., 4., 3.	This case is: Scalene Triangle
+
+Input 2., 2., 3.	This case is: Isoceles Triangle
+
+Input 3., 2., 2.	This case is: Isoceles Triangle
+
+Input 2., 3., 2.	This case is: Isoceles Triangle
+
+Input -4., 7., 5.	This case is: Bad Data
+
+Input -4., 5., 7.	This case is: Bad Data
+
+Input 5., 7., -4.	This case is: Bad Data
+
+Input 5., -4., 7.	This case is: Bad Data
+
+Input 7., 5., -4.	This case is: Bad Data
+
+Input 7., -4., 5.	This case is: Bad Data
+
+Input 5., -6., -7.	This case is: Bad Data
+
+Input -8., -6., -7.	This case is: Bad Data
+
+Input 0., 7., 7.	This case is: Bad Data
+
+Input 7., 0., 7.	This case is: Bad Data
+
+Input 4.5, 7.9, 4.5	This case is: Isoceles Triangle
+
+Input 3.8, 3.8, 3.8	This case is: Equilateral Triangle
+
+Input 4.5, 6.7, 8.	This case is: Scalene Triangle
+
+Input 8., 6.7, 4.5	This case is: Scalene Triangle
+
+Input 6.7, 4.5, 8.	This case is: Scalene Triangle
+
+Input 2., 3., 5.	This case is: Not a Triangle
+
+Input 4., 5., 10.	This case is: Not a Triangle
+
+Input 10., 5., 4.	This case is: Not a Triangle
+
+Input 5., 10., 4.	This case is: Not a Triangle
+
+Input 4., 5., 1000.	This case is: Not a Triangle
+
+
+Processed 30 data cases.
+
+No More data******************
+
